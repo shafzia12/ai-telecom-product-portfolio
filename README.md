@@ -28,7 +28,8 @@ AI-powered chatbot integrating LLMs with real-time SQL data.
 
 ### 2. RAG-Based Business Intelligence Tool
 Extracts insights from enterprise documents using vector search + LLMs.
-
+## Architecture
+![Architecture](architectureRAG.png)
 ---
 
 ### 3. AI Sentiment Analysis Platform
