@@ -22,6 +22,8 @@ AI-powered chatbot integrating LLMs with real-time SQL data.
 - Guardrails (Responsible AI)
 - Human escalation workflows
 
+## Architecture
+![Architecture](architecture.png)
 ---
 
 ### 2. RAG-Based Business Intelligence Tool
