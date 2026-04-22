@@ -34,12 +34,14 @@ Extracts insights from enterprise documents using vector search + LLMs.
 
 ### 3. AI Sentiment Analysis Platform
 Processes large-scale unstructured data for sentiment insights.
-
+## Architecture
+![Architecture](architectureSentiment.png)
 ---
 
 ### 4. Medical RAG Assistant
 Domain-specific chatbot with high-accuracy retrieval.
-
+## Architecture
+![Architecture](architectureMedRAG.png)
 ---
 
 ## 🧠 Architecture Focus
