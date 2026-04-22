@@ -53,4 +53,4 @@ Domain-specific chatbot with high-accuracy retrieval.
 ---
 
 ## 📫 Contact
-LinkedIn: https://linkedin.com/in/shafaq-zia-09905810
+LinkedIn: https://linkedin.com/in/shafaq-zia-mba-09905810
